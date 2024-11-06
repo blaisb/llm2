@@ -1,4 +1,4 @@
 import numpy as np
 
 L=1
-x=np.linspace(0,L)
+x=np.logspace(0,L)
