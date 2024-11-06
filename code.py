@@ -1,3 +1,4 @@
 import numpy as np
 
-x=np.linspace(0,1)
+L=1
+x=np.linspace(0,L)
